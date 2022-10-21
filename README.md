@@ -1,9 +1,9 @@
 # couterMO
-Parser of court cases of the Moscow region in all 53 courts
+Parser of court cases of the Moscow in all 13 courts
 
 ## installation
 ```golang
-git clone https://github.com/RB-PRO/couterMO.git
+git clone https://github.com/RB-PRO/couterMSK.git
 ```
 
 ## Build
@@ -14,10 +14,10 @@ go build
 
 ### Run for Linux
 ```golang
-./couterMO
+./couterMSK
 ```
 
 ### Run for Windows
 ```golang
-couterMO.exe
+couterMSK.exe
 ```
